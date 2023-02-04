@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praveenlps0305
+- 👋 Hi, I’m Praveen Kumar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on DSA PROJECT
