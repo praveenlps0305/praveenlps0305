@@ -1,6 +1,10 @@
 ![image](https://user-images.githubusercontent.com/95708560/216759041-4d1b376a-6d18-40ba-a00e-597e8dc43f50.png)
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Merienda&weight=600&color=e80c0c&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Data+Science+Enthusiast;&center=true&width=500&height=50"></a>
+</p>
+
+<!-- <h3 align="center">A passionate Data Science Enthusiast</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png">
 
 <!-- <p align="left"> <img src="https://codevidhya.com/wp-content/uploads/2021/10/profile-pic.png" alt="praveenlps0305" /> </p> -->
@@ -30,3 +34,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenlps0305&show_icons=true&locale=en" alt="praveenlps0305" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenlps0305&" alt="praveenlps0305" /></p>
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
+   <a href="https://github.com/praveenlps0305"><img alt="Praveen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=praveenlps0305&custom_title=Praveen's%20%20Graph&hide_border=true&theme=react-dark" /></a>
+  <br/>
+
+<br/>
+
